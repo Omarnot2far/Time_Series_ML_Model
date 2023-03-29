@@ -1,4 +1,4 @@
-# Time_Series_ML_Model
+# Time Series Machine Learning 
 
 Time series analysis is a type of machine learning that is used to analyze and predict trends and patterns in time series data. Time series data is a collection of data points that are recorded over a period of time, typically at regular intervals.
 
