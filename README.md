@@ -12,4 +12,5 @@ There are various types of time series analysis techniques that can be applied t
 
 4. Forecasting: This involves using statistical models to predict future values of the time series.
 
-To demonstrate how time series analysis can be applied to a real dataset. The avobe notebooks were few of my work.
+
+The above Time series analysis Notebooks applied to a real dataset.
